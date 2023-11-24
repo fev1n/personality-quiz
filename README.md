@@ -6,11 +6,10 @@ A programmed quiz which collects answers and based on answers you give and makes
 
 1. Initial (Introduction Page)
 <img src="https://github.com/fev1n/personality-quiz/assets/132969492/056c8229-d57c-42f5-9624-6dd6a1c4cd84" width="300">
-<br />
-<br />
-<br />
-<br />
 
+<br />
+<br />
+<br />
 
 2.Questions Screen with different input methods
 <img src="https://github.com/fev1n/personality-quiz/assets/132969492/c7e2cbd6-3b17-483d-aa49-04b0587681ed" width="300">
@@ -21,6 +20,7 @@ A programmed quiz which collects answers and based on answers you give and makes
 <br />
 <br />
 <br />
+
 3.Final Result window
 <img src="https://github.com/fev1n/personality-quiz/assets/132969492/7a24585c-2d4f-4524-be7b-82bf90715969" width="300">
 
