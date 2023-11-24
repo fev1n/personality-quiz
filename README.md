@@ -18,6 +18,8 @@ A programmed quiz which collects answers and based on answers you give and makes
 <img src="https://github.com/fev1n/personality-quiz/assets/132969492/1abf20ee-0708-42d2-a943-d25cf6a233ec" width="300">
 
 
+<br />
+<br />
 3.Final Result window
 <br />
 <br />
