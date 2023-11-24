@@ -6,6 +6,7 @@ A programmed quiz which collects answers and based on answers you give and makes
 
 1) Initial (Introduction Page)
 ![Simulator Screenshot - iPhone 15 Pro - 2023-11-23 at 22 49 42](https://github.com/fev1n/personality-quiz/assets/132969492/056c8229-d57c-42f5-9624-6dd6a1c4cd84)
+<img src="https://github.com/fev1n/personality-quiz/assets/132969492/056c8229-d57c-42f5-9624-6dd6a1c4cd84" width="48">
 
 2) Questions Screen with different input methods
 ![ImageofQuestions](https://github.com/fev1n/personality-quiz/assets/132969492/3fb6ccb1-9042-475e-9c6b-d683d99d34b5)
