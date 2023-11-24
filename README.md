@@ -18,6 +18,9 @@ A programmed quiz which collects answers and based on answers you give and makes
 
 
 3.Final Result window
+<br />
+<br />
+<br />
 <img src="https://github.com/fev1n/personality-quiz/assets/132969492/7a24585c-2d4f-4524-be7b-82bf90715969" width="300">
 
 
